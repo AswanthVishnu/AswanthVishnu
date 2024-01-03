@@ -1,16 +1,37 @@
-### Hi there 👋
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/otpchecker-608ed.appspot.com/o/header.jpg?alt=media&token=c6a3e139-191c-49b0-ac18-5bb26e78b3cb)
 
-<!--
-**AswanthVishnu/AswanthVishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm ASWANTH VISHNU S</h1>
+<h3 align="center">👋 Hello there! 🌟 I'm Aswanth Vishnu, a B.Tech student in Information Technology, navigating the thrilling world of technology. My journey is fueled by an unwavering passion for cybersecurity, and I revel in the challenges of securing digital landscapes. 🔐 I find joy in constantly pushing the boundaries of innovation, diving into new programming languages, and experimenting with cutting-edge cybersecurity tools. The dynamic nature of cybersecurity is not just a field for me; it's an exhilarating adventure where I actively seek to broaden my tech horizons. 🎤 Beyond the digital realm, I have a flair for public speaking and leadership. Effective communication is more than a skill—it's a driving force in my personal and professional development. Sharing insights, ideas, and knowledge isn't just something I do; it's a genuine passion that I believe can create a positive impact. 🌐✨ Let's connect and embark on this exciting journey of technology and personal growth together! Whether we're delving into the latest cybersecurity trends, exploring new programming languages, or sharing experiences in leadership and public speaking, I'm eager to engage in meaningful conversations with you. Feel free to reach out, ask questions, or share your thoughts on any topic close to your heart! 🚀💻</h3>
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/otpchecker-608ed.appspot.com/o/RED%20ASWANTH.gif?alt=media&token=d6333c77-2c1d-4b95-a331-0edd33af0ff8">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanthvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="aswanthvishnu" /> </p>
+
+<p align="left"> <a href="https://twitter.com/aswanth_vishnu" target="blank"><img src="https://img.shields.io/twitter/follow/aswanth_vishnu?logo=twitter&style=for-the-badge" alt="aswanth_vishnu" /></a> </p>
+
+- 🔭 I’m currently working on [EMAIL-ACCOUNT CHECKER](https://github.com/AswanthVishnu/Email-Account-Checker)
+
+- 🌱 I’m currently learning **reverse engineering**
+
+- 📫 How to reach me **aswanthvishnu.s2021it@sece.ac.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aswanth_vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aswanth_vishnu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aswanth-vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswanth-vishnu" height="30" width="40" /></a>
+<a href="https://instagram.com/iamaswanthvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamaswanthvishnu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sece_mit006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sece_mit006" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aswanthvishnu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aswanthvishnu00" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aswanth_vishnu_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswanth_vishnu_s" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/aswanth39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aswanth39" height="30" width="40" /></a>
+<a href="https://discord.gg/852738914400731146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852738914400731146" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswanthvishnu&show_icons=true&locale=en&layout=compact" alt="aswanthvishnu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswanthvishnu&show_icons=true&locale=en" alt="aswanthvishnu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswanthvishnu&" alt="aswanthvishnu" /></p>
